@@ -1,0 +1,26 @@
+{
+  "name": "typlate",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "quicktype": "^15.0.174"
+  },
+  "dependencies": {
+    "@types/node": "^13.7.1",
+    "@types/yargs": "^15.0.3",
+    "class-validator": "^0.11.0",
+    "handlebars": "^4.7.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.19",
+    "@types/react-dom": "^16.9.5",
+    "prettier": "^1.19.1",
+    "prettier-cli": "^0.1.0"
+  }
+}
